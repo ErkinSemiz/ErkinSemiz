@@ -1,6 +1,6 @@
 
 Combination of both industry Embedded Systems and Automotive Software Engineering
-### Hi there 👋 !! I'm Erkin Semiz, an experienced Embedded Software Engineer with a strong background in the defence industry, now also excelling in automotive software engineering. My unique skill set combines both domains, allowing me to tackle complex and challenging projects easily.
+### Hi there 👋 !! I'm Erkin Semiz, an experienced Embedded Software Engineer with a strong background in the defence industry, now also excelling in automotive software engineering. My unique skill set combines both domains, allowing me to easily tackle complex and challenging projects.
 
 🚀 My Experiences
 -Embedded Software Development Team Leader
