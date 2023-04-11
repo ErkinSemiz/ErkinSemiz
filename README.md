@@ -31,6 +31,8 @@ Feel free to explore my GitHub repositories and discover some of the exciting pr
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErkinSemiz&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ErkinSemiz](https://git.io/streak-stats)
+
 
 <!--
 **ErkinSemiz/ErkinSemiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
